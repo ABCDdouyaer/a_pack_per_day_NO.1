@@ -1,5 +1,5 @@
 
->🐝🐝🐝is-sorted
+>🐝🐝🐝【0001】is-sorted
 
 >🐝🐝🐝[文档地址:https://www.npmjs.com/package/is-sorted](https://www.npmjs.com/package/is-sorted)
 
@@ -7,7 +7,7 @@
 
 ---------
 
->🐝🐝🐝array-first
+>🐝🐝🐝【0002】array-first
 
 >🐝🐝🐝[文档地址:https://segmentfault.com/a/1190000016986942](https://segmentfault.com/a/1190000016986942)
 
@@ -15,7 +15,7 @@
 
 ---------
 
->🐝🐝🐝kind-of
+>🐝🐝🐝【0003】kind-of
 
 >🐝🐝🐝[文档地址:https://segmentfault.com/a/1190000016986986](https://segmentfault.com/a/1190000016986986)
 
@@ -23,7 +23,7 @@
 
 ---------
 
->🐝🐝🐝array-slice
+>🐝🐝🐝【0004】array-slice
 
 >🐝🐝🐝[文档地址:https://segmentfault.com/a/1190000016987045](https://segmentfault.com/a/1190000016987045)
 
