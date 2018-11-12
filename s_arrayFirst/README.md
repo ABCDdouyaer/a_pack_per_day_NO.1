@@ -1,4 +1,4 @@
-####array-first
+#### array-first
 > 获取数组的第一项或者前几项
 
 [文档地址:https://www.npmjs.com/package/is-sorted](https://www.npmjs.com/package/is-sorted)
@@ -6,7 +6,7 @@
 ```返回```：第一项返回arr[0] | 前几项返回数组
 ```默认```：返回数组第一项
 
-####kind-of
+#### kind-of
 >判断数据类型
 ```用法```：kind-of(date)
 ```返回```：string
@@ -52,11 +52,11 @@
   </tr>
 </table>
 
-####array-slice
+#### array-slice
 >截取数组，同数组的slice方法一致
 ```用法```：array-slice(array, start, end)
 ```返回```：array
-#####源码有关位运算学习【一直不太注重位运算，重新学习下】
+##### 源码有关位运算学习【一直不太注重位运算，重新学习下】
 - **位运算NOT（~）：**```对数字求负数并且减1  ``` 
 eg:  ~a = -a -1
 - **位运算AND（&）：**```将两个数字的32位二进制对齐，每一位都求两者的AND运算  ``` 
