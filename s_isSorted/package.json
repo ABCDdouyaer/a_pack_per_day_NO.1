@@ -1,7 +1,7 @@
 {
   "name": "s_isSorted",
   "version": "1.0.0",
-  "description": "",
+  "description": "> 用于判断数组是否被排序了",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "is-sorted": "^1.0.5"
-  }
+  },
+  "devDependencies": {}
 }

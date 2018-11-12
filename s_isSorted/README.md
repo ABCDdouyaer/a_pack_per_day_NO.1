@@ -1,5 +1,5 @@
 
-####is-sorted 
+#### is-sorted 
 > 用于判断数组是否被排序了
 
 [文档地址:https://www.npmjs.com/package/is-sorted](https://www.npmjs.com/package/is-sorted)
