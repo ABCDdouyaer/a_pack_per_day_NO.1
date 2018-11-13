@@ -1,4 +1,6 @@
 
+[github地址：https://github.com/ABCDdouyaer/a_pack_per_day_NO.1][1]
+
 >🐝🐝🐝【0001】is-sorted
 
 >🐝🐝🐝[文档地址:https://www.npmjs.com/package/is-sorted](https://www.npmjs.com/package/is-sorted)
@@ -28,5 +30,13 @@
 >🐝🐝🐝[文档地址:https://segmentfault.com/a/1190000016987045](https://segmentfault.com/a/1190000016987045)
 
 >截取数组，同数组的slice方法一致
+
+---------
+
+>🐝🐝🐝【0005】arr-flatten
+
+>🐝🐝🐝[文档地址:https://segmentfault.com/a/1190000016993074](https://segmentfault.com/a/1190000016993074)
+
+>将多维数组展开成一维数组
 
 ---------
