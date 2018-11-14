@@ -66,3 +66,28 @@
 >多个数组比较，过滤出第一个数组独有的内容
 
 ---------
+
+>🐹🐹🐹【0009】group-array
+
+>🐹🐹🐹[文档地址:https://www.npmjs.com/package/group-array](https://www.npmjs.com/package/group-array)
+
+>对数组里面的多项按照指定的key进行整合
+
+---------
+
+>🦁🦁🦁【0010】decamelize
+
+>🦁🦁🦁[文档地址:https://www.npmjs.com/package/decamelize](https://www.npmjs.com/package/decamelize)
+
+>将驼峰字符串拆解为普通字符串，并按照指定的符号分隔开
+
+---------
+
+11-19 【每日一包0011】
+>🦁🦁🦁【0011】pad
+
+>🦁🦁🦁[文档地址:https://www.npmjs.com/package/pad](https://www.npmjs.com/package/pad)
+
+>给字符串的左右加padding,也可以用于删减字符串两端
+
+---------
