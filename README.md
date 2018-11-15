@@ -84,10 +84,34 @@
 ---------
 
 11-19 【每日一包0011】
->🦁🦁🦁【0011】pad
+>🦅🦅🦅【0011】pad
 
->🦁🦁🦁[文档地址:https://www.npmjs.com/package/pad](https://www.npmjs.com/package/pad)
+>🦅🦅🦅[文档地址:https://www.npmjs.com/package/pad](https://www.npmjs.com/package/pad)
 
 >给字符串的左右加padding,也可以用于删减字符串两端
+
+---------
+
+>🐲🐲🐲【0012】to-camel-case
+
+>🐲🐲🐲[文档地址:https://www.npmjs.com/package/to-camel-case](https://www.npmjs.com/package/to-camel-case)
+
+>将被其他符号分割的字符串转换为驼峰形式的字符串
+
+---------
+
+>🐲🐲🐲【0012】to-no-case
+
+>🐲🐲🐲[文档地址:https://www.npmjs.com/package/to-no-case](https://www.npmjs.com/package/to-no-case)
+
+>将被其他符号分割的字符串统一由空格分开并全部转为小写
+
+---------
+
+>🐲🐲🐲【0012】to-space-case
+
+>🐲🐲🐲[文档地址:https://www.npmjs.com/package/to-space-case](https://www.npmjs.com/package/to-space-case)
+
+>将被其他符号分割的字符串统一由空格分开并去除字符串两边的空格
 
 ---------
