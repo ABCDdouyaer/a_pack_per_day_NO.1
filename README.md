@@ -139,3 +139,29 @@
 >🙏🙏🙏[文档地址:https://www.npmjs.com/package/to-dot-case](https://www.npmjs.com/package/to-dot-case)
 
 >将用符号分开的字符串用.分隔开
+
+---------
+
+>❄️❄️❄️【0014】to-pascal-case
+
+>❄️❄️❄️[文档地址:https://www.npmjs.com/package/to-pascal-case](https://www.npmjs.com/package/to-pascal-case)
+
+>  将用其他符号分开的字符串转换为驼峰形式
+
+---------
+
+>❄️❄️❄️【0014】to-sentence-case
+
+>❄️❄️❄️[文档地址:https://www.npmjs.com/package/to-sentence-case](https://www.npmjs.com/package/to-sentence-case)
+
+> 字符串转换为首字母大写的语句
+
+---------
+
+>❄️❄️❄️【0014】to-snake-case
+
+>❄️❄️❄️[文档地址:https://www.npmjs.com/package/to-snake-case](https://www.npmjs.com/package/to-snake-case)
+
+> 其他符号分割的字符串以_分割
+
+---------
