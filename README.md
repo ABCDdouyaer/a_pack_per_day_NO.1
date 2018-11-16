@@ -165,3 +165,11 @@
 > 其他符号分割的字符串以_分割
 
 ---------
+
+>🌈🌈🌈【0015】gradient-string
+
+>🌈🌈🌈[文档地址:https://www.npmjs.com/package/gradient-string](https://www.npmjs.com/package/gradient-string)
+
+> 用于在终端打印出好看的渐变文字
+
+---------
