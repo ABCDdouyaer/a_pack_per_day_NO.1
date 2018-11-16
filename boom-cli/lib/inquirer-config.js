@@ -38,6 +38,11 @@ module.exports = {
     commit: [
         {
             type: "string",
+            message:'请输入本次提交的项目名称',
+            name: 'item_name'
+        },
+        {
+            type: "string",
             message:'请输入本次提交的备注',
             name: 'commit_note'
         }

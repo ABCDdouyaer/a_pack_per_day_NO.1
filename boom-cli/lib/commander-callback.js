@@ -78,6 +78,8 @@ const commitAction = ()=>{
               git add .
               git commit -m  ${as.commit_note}
               git push origin master
+              git tag ${as.item_name}
+              git push origin ${as.item_name}
            `)
         }else{
             commitAction()
