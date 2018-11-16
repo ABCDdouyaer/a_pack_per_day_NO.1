@@ -1,0 +1,17 @@
+{
+  "name": "0014",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-pascal-case": "^1.0.0",
+    "to-sentence-case": "^1.0.0",
+    "to-snake-case": "^1.0.0"
+  }
+}

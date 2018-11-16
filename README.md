@@ -83,7 +83,6 @@
 
 ---------
 
-11-19 【每日一包0011】
 >🦅🦅🦅【0011】pad
 
 >🦅🦅🦅[文档地址:https://www.npmjs.com/package/pad](https://www.npmjs.com/package/pad)
@@ -115,3 +114,28 @@
 >将被其他符号分割的字符串统一由空格分开并去除字符串两边的空格
 
 ---------
+
+11-21 【每日一包0013】
+---------
+
+>🙏🙏🙏【0013】to-capital-case
+
+>🙏🙏🙏[文档地址:https://www.npmjs.com/package/to-capital-case](https://www.npmjs.com/package/to-capital-case)
+
+>将用符号分开的字符串用空格分隔开，并且每个单词首字母大写
+
+---------
+
+>🙏🙏🙏【0013】to-constant-case
+
+>🙏🙏🙏[文档地址:https://www.npmjs.com/package/to-constant-case](https://www.npmjs.com/package/to-constant-case)
+
+>将用符号分开的字符串用空格分隔开，并且每个字母大写
+
+---------
+
+>🙏🙏🙏【0013】to-dot-case
+
+>🙏🙏🙏[文档地址:https://www.npmjs.com/package/to-dot-case](https://www.npmjs.com/package/to-dot-case)
+
+>将用符号分开的字符串用.分隔开

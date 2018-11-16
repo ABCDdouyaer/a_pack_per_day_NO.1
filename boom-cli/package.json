@@ -1,0 +1,25 @@
+{
+  "name": "wait3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "boom": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "gradient-string": "^1.2.0",
+    "inquirer": "^6.2.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ""
+}
