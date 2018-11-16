@@ -1,3 +1,8 @@
+/**
+ * created by Jiraiya on 11/16/2018
+ * 终端交换的配置文件
+ */
+
 module.exports = {
     init: [
         {

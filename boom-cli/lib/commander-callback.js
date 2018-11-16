@@ -1,14 +1,19 @@
-
+/**
+ * created by Jiraiya on 11/16/2018
+ * commander 命令执行的回调
+ */
 const inquirer = require('inquirer');
 const shell = require('shelljs');
 const path = require('path');
 const inquirerOption = require('./inquirer-config');
 const root = require('./path-config');
 
+//初始化文件夹
 const initAction = ()=>{
     inquirer.prompt(inquirerOption.init).then(as=>{   
         let pack_path; 
         //创建项目目录结构
+        let time = new Date().toLocaleString();
         if(as.item_name){
             let item_name = as.item_name;
             shell.mkdir('-p', path.resolve(root.rootPath, item_name));
@@ -17,6 +22,7 @@ const initAction = ()=>{
             shell.exec(`
               cd ${pack_path}
               touch index.js
+              echo '/**\n *Created by Jiraiya on '${time}'\n */\n' > ${pack_path}'/index.js'
               npm init -y
             `);
         }  
@@ -33,6 +39,7 @@ const initAction = ()=>{
     })
 }
 
+//将内容增加到README.md
 const addAction = ()=>{
     inquirer.prompt(inquirerOption.add).then(as=>{
        let rootPath = path.resolve(root.rootPath, 'README.md');
@@ -52,7 +59,7 @@ const addAction = ()=>{
        }
     })
 }
-
+//生成segmentFault发布版本
 const pubAction = ()=>{
     inquirer.prompt(inquirerOption.pub).then(as=>{
        if(as.item_name){
@@ -69,7 +76,7 @@ const pubAction = ()=>{
        }
     })
 }
-
+//提交项目到仓库
 const commitAction = ()=>{
     inquirer.prompt(inquirerOption.commit).then(as=>{
         if(as.commit_note){
