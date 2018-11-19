@@ -115,7 +115,6 @@
 
 ---------
 
-11-21 【每日一包0013】
 ---------
 
 >🙏🙏🙏【0013】to-capital-case
@@ -171,5 +170,14 @@
 >🌈🌈🌈[文档地址:https://www.npmjs.com/package/gradient-string](https://www.npmjs.com/package/gradient-string)
 
 > 用于在终端打印出好看的渐变文字
+
+---------
+11-24 【每日一包0016】
+
+>📚📚📚【0016】striptags
+
+>📚📚📚[文档地址:https://www.npmjs.com/package/striptags](https://www.npmjs.com/package/striptags)
+
+> 剥去字符串中的html标签，和php里面的strip_tags函数一样
 
 ---------
