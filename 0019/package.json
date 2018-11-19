@@ -1,0 +1,17 @@
+{
+  "name": "0019",
+  "version": "1.0.0",
+  "description": ">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^4.1.0",
+    "got": "^9.3.2",
+    "mem": "^4.0.0"
+  }
+}
