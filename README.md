@@ -181,3 +181,11 @@
 > 剥去字符串中的html标签，和php里面的strip_tags函数一样
 
 ---------
+
+>☀️☀️☀️【0017】pretty-ms
+
+>☀️☀️☀️[文档地址:https://www.npmjs.com/package/pretty-ms](https://www.npmjs.com/package/pretty-ms)
+
+> 将毫秒转换为容易读取的时间:1337000000 → 15d 11h 23m 20s
+
+---------
