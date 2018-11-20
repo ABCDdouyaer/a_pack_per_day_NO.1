@@ -15,7 +15,7 @@ program.command('add')
 program.command('pub')
        .description('生成segmentFault发版格式')
        .action(callBack.pubAction)
-program.command('commit')
+program.command('co')
        .description('提交item到仓库')
        .action(callBack.commitAction)
 program.on('command:*', function () {

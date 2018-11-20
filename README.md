@@ -213,3 +213,43 @@
 > 函数的节流与防抖
 
 ---------
+
+>🔔🔔🔔【0021】csv2
+
+>🔔🔔🔔[文档地址:https://www.npmjs.com/package/csv2](https://www.npmjs.com/package/csv2)
+
+> 采用流模式读取.csv文件，每次读取一行数据
+
+---------
+
+>🔔🔔🔔【0021】through2
+
+>🔔🔔🔔[文档地址:https://www.npmjs.com/package/through2](https://www.npmjs.com/package/through2)
+
+> 对node流的二次封装，更加易于使用
+
+---------
+
+>🚀🚀🚀【0022】through2-map
+
+>🚀🚀🚀[文档地址:https://www.npmjs.com/package/through2-map](https://www.npmjs.com/package/through2-map)
+
+> 对于through2包的transformFunction参数封装为map函数形式
+
+---------
+
+>🚀🚀🚀【0022】through2-filter
+
+>🚀🚀🚀[文档地址:https://www.npmjs.com/package/through2-filter](https://www.npmjs.com/package/through2-filter)
+
+> 对于through2包的transformFunction参数封装为filter函数形式,API与through2-map一样
+
+---------
+
+>🚀🚀🚀【0022】stream-spigot
+
+>🚀🚀🚀[文档地址:https://www.npmjs.com/package/stream-spigot](https://www.npmjs.com/package/stream-spigot)
+
+> 可读流生成器，用于测试和转换一些惰性函数为简单的可读流，或者创建可读流
+
+---------
