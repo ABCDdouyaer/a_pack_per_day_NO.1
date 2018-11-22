@@ -5,6 +5,8 @@
 const inquirer = require('inquirer');
 const shell = require('shelljs');
 const path = require('path');
+const fs = require('fs');
+const Request = require('request');
 const inquirerOption = require('./inquirer-config');
 const root = require('./path-config');
 
@@ -94,9 +96,30 @@ const commitAction = ()=>{
     })
 }
 
+//抓取图片到指定目录
+
+const getPictureAction = ()=>{
+    inquirer.prompt(inquirerOption.getPicture).then(as=>{
+        let imgPath = path.resolve(root.rootPath, as.item_name, 'img');
+        if(!fs.existsSync(imgPath)){
+            fs.mkdirSync(imgPath);
+        }
+        if(as.item_name && as.pic_url){
+            let picArr = as.pic_url.split(',');
+            for(let pic of picArr){
+                let _url = pic.split('/').pop();
+                Request(pic).pipe(fs.createWriteStream(`${imgPath}/${_url}`))
+            }
+        }else{
+            getPictureAction();
+        }
+    })
+}
+
 module.exports = {
     initAction,
     addAction,
     pubAction,
     commitAction,
+    getPictureAction,
 }

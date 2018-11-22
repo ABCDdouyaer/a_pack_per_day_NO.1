@@ -18,6 +18,9 @@ program.command('pub')
 program.command('co')
        .description('提交item到仓库')
        .action(callBack.commitAction)
+program.command('pic')
+       .description('抓取网络图片到指定目录')
+       .action(callBack.getPictureAction)
 program.on('command:*', function () {
     let str = '◎'.repeat(150);
     console.log(gradient(['red', 'green', 'red'])(str, {interpolation: 'hsv', hsvSpin: 'long'}))

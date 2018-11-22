@@ -253,3 +253,11 @@
 > 可读流生成器，用于测试和转换一些惰性函数为简单的可读流，或者创建可读流
 
 ---------
+
+>🍎🍎🍎【0023】concat-stream
+
+>🍎🍎🍎[文档地址:https://www.npmjs.com/package/concat-stream](https://www.npmjs.com/package/concat-stream)
+
+> 类似于一个流的收集器，将读取的流全部存储于该容器
+
+---------

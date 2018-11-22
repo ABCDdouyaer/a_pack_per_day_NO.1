@@ -51,5 +51,17 @@ module.exports = {
             message:'请输入本次提交的备注',
             name: 'commit_note'
         }
-    ]
+    ],
+    getPicture: [
+        {
+            type: "string",
+            message:'请输入本次提交的项目名称',
+            name: 'item_name'
+        },
+        {
+            type: "string",
+            message:'请输入需要抓取的图片链接以，分割',
+            name: 'pic_url'
+        }
+    ],
 }
