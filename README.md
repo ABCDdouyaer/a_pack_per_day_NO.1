@@ -213,7 +213,6 @@
 
 ---------
 
-12 【每日一包0021】
 >🔔🔔🔔【0021】csv2
 
 >🔔🔔🔔[文档地址:https://www.npmjs.com/package/csv2](https://www.npmjs.com/package/csv2)
@@ -267,5 +266,13 @@
 >💦💦💦[文档地址:https://www.npmjs.com/package/inquirer](https://www.npmjs.com/package/inquirer)
 
 > 好用的交互命令行工具
+
+---------
+12 【每日一包0021】
+>⭕⭕⭕【0025】events
+
+>⭕⭕⭕[文档地址:https://www.npmjs.com/package/events](https://www.npmjs.com/package/events)
+
+>事件触发器
 
 ---------
