@@ -276,3 +276,43 @@
 >事件触发器
 
 ---------
+
+>👂👂👂【0026】delegates (koa2源码依赖)
+
+>👂👂👂[文档地址:https://www.npmjs.com/package/delegates](https://www.npmjs.com/package/delegates)
+
+> 委托机制，用于对象属性代理
+
+---------
+
+>💀💀💀【0027】statuses (koa2源码依赖)
+
+>💀💀💀[文档地址:https://www.npmjs.com/package/statuses](https://www.npmjs.com/package/statuses)
+
+>http状态码工具包
+
+---------
+
+>🐎🐎🐎【0028】cache-content-type (koa2源码依赖)
+
+>🐎🐎🐎[文档地址:https://www.npmjs.com/package/cache-content-type](https://www.npmjs.com/package/cache-content-type)
+
+>http响应头部工具包， 基于mime-types包，对结果进行了缓存
+
+---------
+
+>🐎🐎🐎【0028】mime-types
+
+>🐎🐎🐎[文档地址:https://www.npmjs.com/package/mime-types](https://www.npmjs.com/package/mime-types)
+
+>http响应头部工具包
+
+---------
+
+>🚗🚗🚗【0029】merge-descriptors (express源码依赖)
+
+>🚗🚗🚗[文档地址:https://www.npmjs.com/package/merge-descriptors](https://www.npmjs.com/package/merge-descriptors)
+
+>一个对象的属性继承另一个对象的属性描述符
+
+---------
