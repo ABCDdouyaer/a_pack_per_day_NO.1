@@ -313,6 +313,6 @@
 
 >🚗🚗🚗[文档地址:https://www.npmjs.com/package/merge-descriptors](https://www.npmjs.com/package/merge-descriptors)
 
->一个对象的属性继承另一个对象的属性描述符
+>一个对象的属性继承另一个对象的属性及其属性描述符
 
 ---------

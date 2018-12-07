@@ -29,6 +29,6 @@ Object.defineProperties(d, {
     }
 })
 
-let e = {};
-let f = mixin(e, d);
-console.log(f.sex);//man
+let e = {sex: '123'};
+let f = mixin(e, d, false);
+console.log(f.sex);//123
