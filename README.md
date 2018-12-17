@@ -316,3 +316,11 @@
 >一个对象的属性继承另一个对象的属性及其属性描述符
 
 ---------
+
+>👒👒👒【0030】chalk
+
+>👒👒👒[文档地址:https://www.npmjs.com/package/chalk](https://www.npmjs.com/package/chalk)
+
+>美化终端的字符串样式
+
+---------

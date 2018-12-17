@@ -1,7 +1,3 @@
-【每日一包0030】
-
-[github地址：https://github.com/ABCDdouyaer/a_pack_per_day_NO.1]
-
 ### chalk
 
 > 美化终端的字符串样式
