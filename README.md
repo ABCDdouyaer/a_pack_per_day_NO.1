@@ -268,7 +268,7 @@
 > 好用的交互命令行工具
 
 ---------
-12 【每日一包0021】
+
 >⭕⭕⭕【0025】events
 
 >⭕⭕⭕[文档地址:https://www.npmjs.com/package/events](https://www.npmjs.com/package/events)
@@ -322,5 +322,101 @@
 >👒👒👒[文档地址:https://www.npmjs.com/package/chalk](https://www.npmjs.com/package/chalk)
 
 >美化终端的字符串样式
+
+---------
+
+>🐨🐨🐨【0031】assert
+
+>🐨🐨🐨[文档地址:https://www.npmjs.com/package/assert](https://www.npmjs.com/package/assert)
+
+>断言测试
+
+---------
+
+>🍁🍁🍁【0032】babel
+
+>🍁🍁🍁[文档地址:https://www.npmjs.com/package/babel](https://www.npmjs.com/package/babel)
+
+>js编译 详细见webpack项目
+
+---------
+
+>😁😁😁【0033】urllib
+
+>😁😁😁[文档地址:https://www.npmjs.com/package/urllib](https://www.npmjs.com/package/urllib)
+
+>进行http/https请求的node包
+
+---------
+
+>😭😭😭【0034】commander
+
+>😭😭😭[文档地址:https://www.npmjs.com/package/commander](https://www.npmjs.com/package/commander)
+
+> 编写行内命令
+
+---------
+
+>🍆🍆🍆【0035】ora
+
+>🍆🍆🍆[文档地址:https://www.npmjs.com/package/ora](https://www.npmjs.com/package/ora)
+
+>好用的命令行加载器动画
+
+---------
+
+>🥒🥒🥒【0036】user-home
+
+>🥒🥒🥒[文档地址:https://www.npmjs.com/package/user-home](https://www.npmjs.com/package/user-home)
+
+>获取用户主目录的路径
+
+---------
+
+>🍍🍍🍍【0037】tildify
+
+>🍍🍍🍍[文档地址:https://www.npmjs.com/package/tildify](https://www.npmjs.com/package/tildify)
+
+>将绝对路径转换为波浪路径
+
+---------
+
+>🌰🌰🌰【0038】rimraf
+
+>🌰🌰🌰[文档地址:https://www.npmjs.com/package/rimraf](https://www.npmjs.com/package/rimraf)
+
+>包装rm -rf命令，用于删除文件或者文件夹
+
+---------
+
+>🍉🍉🍉【0039】semver
+
+>🍉🍉🍉[文档地址:https://www.npmjs.com/package/semver](https://www.npmjs.com/package/semver)
+
+>解析版本号或者比较版本号的大小
+
+---------
+
+>🍇🍇🍇【0040】read-metadata
+
+>🍇🍇🍇[文档地址:https://www.npmjs.com/package/read-metadata](https://www.npmjs.com/package/read-metadata)
+
+>加载JSON或YAML元数据文件并将其作为对象返回。
+
+---------
+
+>🌧🌧🌧【0041】validate-npm-package-name
+
+>🌧🌧🌧[文档地址:https://www.npmjs.com/package/validate-npm-package-name](https://www.npmjs.com/package/validate-npm-package-name)
+
+>校验一个npm包是否存在
+
+---------
+
+>🌩🌩🌩【0042】metalsmith
+
+>🌩🌩🌩[文档地址:https://www.npmjs.com/package/metalsmith](https://www.npmjs.com/package/metalsmith)
+
+>对文件夹下的所有文件读取并添加插件进行链式处理
 
 ---------
