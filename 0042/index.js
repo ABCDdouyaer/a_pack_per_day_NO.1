@@ -23,3 +23,4 @@ function test(files, metalsmith, done){
     console.log(files)
     done()
 }
+

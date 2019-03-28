@@ -420,3 +420,27 @@
 >对文件夹下的所有文件读取并添加插件进行链式处理
 
 ---------
+
+>🌈🌈🌈【0043】portfinder
+
+>🌈🌈🌈[文档地址:https://www.npmjs.com/package/portfinder](https://www.npmjs.com/package/portfinder)
+
+>查看某个端口是否被占用并在设定范围内找到最小的可用端口
+
+---------
+
+>📚📚📚【0044】node-notifier
+
+>📚📚📚[文档地址:https://www.npmjs.com/package/node-notifier](https://www.npmjs.com/package/node-notifier)
+
+> 通信提示，弹出系统自带的提示框
+
+---------
+
+>🐯🐯🐯【0045】emoji
+
+>🐯[文档地址:https://www.npmjs.com/package/emoji](https://www.npmjs.com/package/emoji)
+
+>将表情转换为html片段
+
+---------
