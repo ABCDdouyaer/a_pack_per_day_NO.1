@@ -139,13 +139,11 @@
         "name": "emoji",
         "desc": "将表情转换为html片段",
         "id": "0045"
-      }
-    ],
-    "合集包": [
+      },
       {
-        "name": "emoji",
-        "desc": "将表情生成html片段",
-        "id": "0045"
+        "name": "lodash",
+        "desc": "js工具函数包",
+        "id": "0051"
       }
     ],
     "框架工具包": [
@@ -203,6 +201,31 @@
         "name": "node-notifier",
         "desc": "通信提示，弹出系统自带的提示框",
         "id": "0044"
+      },
+      {
+        "name": "image-to-ascii",
+        "desc": "将图片生成为ASCII艺术图",
+        "id": "0046"
+      },
+      {
+        "name": "debug",
+        "desc": "一个小型的javascript调试器,适用于node端和web端",
+        "id": "0047"
+      },
+      {
+        "name": "cli-spinner",
+        "desc": "类似于ora的命令行加载动画",
+        "id": "0049"
+      },
+      {
+        "name": "fast-glob",
+        "desc": "通过同步异步流等获取某个正则文件加下的所有文件或者文件夹路径数组",
+        "id": "0050"
+      },
+      {
+        "name": "path-to-regexp",
+        "desc": "将字符串路径转换为正则表达式",
+        "id": "0052"
       }
     ],
     "服务端包": [
@@ -265,6 +288,11 @@
         "name": "metalsmith",
         "desc": "对文件夹下的所有文件读取并添加插件进行链式处理",
         "id": "0042"
+      },
+      {
+        "name": "http-proxy",
+        "desc": "代理",
+        "id": "0048"
       }
     ],
     "自带包": [

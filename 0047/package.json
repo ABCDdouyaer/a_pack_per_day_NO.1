@@ -1,0 +1,17 @@
+{
+  "name": "0047",
+  "version": "1.0.0",
+  "description": ">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug_1": "DEBUG=http1 node index.js",
+    "debug_2": "DEBUG=http2 node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
