@@ -36,6 +36,29 @@ const Rx = require('rxjs');
 //      console.log(as)
 //  })
 
+ const a = [{
+    type:'input',
+    message:'请输入你的名字？',
+    name:"name",
+},
+   {
+    type:'input',
+    message: function(e){
+        return `${e.name},请输入您的年龄？`
+    },
+    name: 'age'
+}];
+
+let p = Promise.resolve();
+
+a.forEach(e=>{
+    p = p.then(res=>{
+        console.log(res)
+        return req.prompt(e).then(res=>{
+            console.log(res)
+        })
+    })
+})
  /**
 ? 请输入你的名字？ 小明
 ? 小明,请输入您的年龄？ 12
@@ -153,18 +176,18 @@ const Rx = require('rxjs');
 //     console.log('您的名字是：'+as.name)
 // }).catch(err=>{console.log(err)})
 
-var prompts = new Rx.Subject();
-req.prompt(prompts);
+// var prompts = new Rx.Subject();
+// req.prompt(prompts);
 
-prompts.next({
-    type: "string",
-    message:'请输入您的名字',
-    name: 'name',
-});
-prompts.next({
-    type: "string",
-    message:'请输入您的性别',
-    name: 'sex',
-});
+// prompts.next({
+//     type: "string",
+//     message:'请输入您的名字',
+//     name: 'name',
+// });
+// prompts.next({
+//     type: "string",
+//     message:'请输入您的性别',
+//     name: 'sex',
+// });
 
-prompts.complete();
+// prompts.complete();
