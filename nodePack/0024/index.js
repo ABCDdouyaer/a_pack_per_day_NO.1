@@ -40,6 +40,7 @@ const Rx = require('rxjs');
     type:'input',
     message:'请输入你的名字？',
     name:"name",
+    filter: (v)=> v+1
 },
    {
     type:'input',
@@ -49,15 +50,8 @@ const Rx = require('rxjs');
     name: 'age'
 }];
 
-let p = Promise.resolve();
-
-a.forEach(e=>{
-    p = p.then(res=>{
-        console.log(res)
-        return req.prompt(e).then(res=>{
-            console.log(res)
-        })
-    })
+req.prompt(a).then(res=>{
+    console.log(res);
 })
  /**
 ? 请输入你的名字？ 小明

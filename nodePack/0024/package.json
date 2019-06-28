@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "highlight.js": "^9.15.8",
     "inquirer": "^6.2.1",
+    "react-codemirror2": "^6.0.0",
+    "react-date-picker": "^7.5.1",
+    "react-paginate": "^6.3.0",
     "rxjs": "^6.3.3"
   }
 }
