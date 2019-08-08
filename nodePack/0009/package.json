@@ -1,17 +1,15 @@
 {
-  "name": "0010",
-  "version": "1.0.0",
-  "description": "> 对数组里面的多项按照指定的key进行整合",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "decamelize": "^2.0.0",
-    "group-array": "^0.3.3"
-  },
-  "devDependencies": {}
+    "name": "test",
+    "version": "1.0.0",
+    "description": ">",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "group-array": "^1.0.0"
+    }
 }

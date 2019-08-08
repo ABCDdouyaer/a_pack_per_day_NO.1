@@ -1,0 +1,39 @@
+{
+  "name": "gt3-sdk",
+  "version": "2.1.0",
+  "description": "Node SDK for Geetest 3.0 captcha",
+  "main": "gt-sdk.js",
+  "keywords": [
+    "Geetest",
+    "Captcha"
+  ],
+  "contributors": [
+    {
+      "name": "zhangcx93",
+      "email": "zhangcx93@gmail.com",
+      "url": "http://www.geetest.com"
+    },
+    {
+      "name": "lhtin",
+      "email": "lehuading@qq.com",
+      "url": "http://www.geetest.com"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "forever": "^0.15.3",
+    "supervisor": "^0.12.0",
+    "express-session": "^1.15.2"
+  },
+  "repository": "https://github.com/GeeTeam/gt3-node-sdk",
+  "scripts": {
+    "start-server": "forever start demo/app.js",
+    "stop-server": "forever stop demo/app.js",
+    "start": "supervisor demo/app.js"
+  }
+}

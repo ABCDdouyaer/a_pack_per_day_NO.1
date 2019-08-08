@@ -10,6 +10,6 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "kind-of": "^6.0.2"
+        "regenerator-runtime": "^0.13.3"
     }
 }
