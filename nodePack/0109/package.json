@@ -10,6 +10,6 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "gt3-sdk": "^2.0.0"
+        "react-error-overlay": "^6.0.2"
     }
 }

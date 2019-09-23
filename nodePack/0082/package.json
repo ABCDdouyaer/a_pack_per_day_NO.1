@@ -10,6 +10,6 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "gt3-sdk": "^2.0.0"
+        "prop-types": "^15.7.2"
     }
 }

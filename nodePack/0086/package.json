@@ -10,6 +10,6 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "gt3-sdk": "^2.0.0"
+        "mocha": "^6.2.0"
     }
 }

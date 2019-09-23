@@ -1,0 +1,14 @@
+{
+  "config": {
+    "title": "Test",
+    "description": ">",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [],
+  "props": []
+}

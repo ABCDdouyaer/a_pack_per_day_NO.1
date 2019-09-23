@@ -10,6 +10,6 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "gt3-sdk": "^2.0.0"
+        "canvas": "^2.6.0"
     }
 }
