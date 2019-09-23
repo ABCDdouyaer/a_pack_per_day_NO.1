@@ -1,6 +1,0 @@
-{"name":"xx","hostname":"bogon","pid":46634,"level":30,"msg":"info","time":"2019-06-27T07:10:28.727Z","v":0}
-{"name":"xx","hostname":"bogon","pid":46634,"level":50,"msg":"error","time":"2019-06-27T07:10:28.728Z","v":0}
-{"name":"xx","hostname":"bogon","pid":46634,"level":40,"msg":"warn","time":"2019-06-27T07:10:28.728Z","v":0}
-{"name":"xx","hostname":"bogon","pid":52949,"level":30,"msg":"info","time":"2019-06-27T09:47:27.092Z","v":0}
-{"name":"xx","hostname":"bogon","pid":52949,"level":50,"msg":"error","time":"2019-06-27T09:47:27.094Z","v":0}
-{"name":"xx","hostname":"bogon","pid":52949,"level":40,"msg":"warn","time":"2019-06-27T09:47:27.094Z","v":0}
